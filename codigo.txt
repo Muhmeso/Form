@@ -1,0 +1,14 @@
+
+<html lang="en">
+
+<script defer src="main.js"></script>
+<head>
+    <title>Formulário</title>
+    <script></script>
+<body>
+    <input type="text" placeholder="Digite o seu e-mail aqui" id="inputEmail"></input>
+    <input type="text" placeholder="Digite o seu e-mail aqui" id="inputSenha"></input>
+
+</body>
+</head>
+</html>

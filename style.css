@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    background: linear-gradient(120deg, rgb(145, 239, 162), rgb(243, 2, 2));
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    
+}
+header h1{
+
+}
+.container{
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.3);
+    height: 50vh;
+    width: 50vh;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+header h1{
+    
+}
+.form{
+    width: 60%;
+    height: 50%;
+    flex-direction: column;
+    align-items: center;
+
+}
+.form label{
+width: 18px;
+}
+.form input{
+width: 150px;
+padding: 5px;
+border-radius: 10px;
+}
+.form button{
+    background-color: rgb(20, 14, 99);
+    color: rgb(158, 147, 189);
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+form button:hover{
+    opacity: 0,5;
+}
+/*A estilização do CSS deve ocorrer na mesma ordem 
+em que os ítens
+
